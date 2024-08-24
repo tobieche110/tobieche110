@@ -1,4 +1,7 @@
 ## Hi there 👋
+Born in 2001. I am a Software Developer and a fourth-year student pursuing a Bachelor's degree in Computer
+Science and Software Development at Universidad de Aconcagua, Mendoza, Argentina. I obtained its
+intermediate degree, University Technician in Software Development, in 2024.
 
 <!--
 **tobieche110/tobieche110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
